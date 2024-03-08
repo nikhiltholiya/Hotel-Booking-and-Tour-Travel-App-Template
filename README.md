@@ -1,26 +1,32 @@
 # travel_pro
 
-**Basic Information**
-Flutter Version - 3.10.1
-Dart Version - 2.23.1
-Install Flutter - See guide according to your operating
-system.
-Windows- https://flutter.dev/docs/getstarted/install/windows
-macOS- https://flutter.dev/docs/getstarted/install/macos
-Linux- https://flutter.dev/docs/getstarted/install/linux
-Set up an editor - https://flutter.dev/docs/get-started/editor
-Build Our App - Open travel_pro folder on your selected IDE
-(Android Studio or VSCode). Run flutter pub get. Then follow
-below guide.
-https://flutter.dev/docs/get-started/test-drive Run
-the App Section
-Change App Iconhttps://pub.dev/packages/flutter_launcher_icons
-Change Package Namehttps://stackoverflow.com/questions/51534616/how-tochange-package-name-in-flutter
-Build & Release Android Apphttps://flutter.dev/docs/deployment/android
-Build & Release iOS Apphttps://flutter.dev/docs/deployment/ios
+## Basic Information
 
+- Flutter Version: 3.10.1
+- Dart Version: 2.23.1
 
-A new Flutter project.
+## Installation Guides
+
+- Install Flutter:
+  - [Windows](https://flutter.dev/docs/getstarted/install/windows)
+  - [macOS](https://flutter.dev/docs/getstarted/install/macos)
+  - [Linux](https://flutter.dev/docs/getstarted/install/linux)
+
+- Set up an editor: [Editor Setup Guide](https://flutter.dev/docs/get-started/editor)
+
+## Build Our App
+
+1. Open the `travel_pro` folder on your selected IDE (Android Studio or VSCode).
+2. Run `flutter pub get`.
+3. Follow the guide in the [Test Drive section](https://flutter.dev/docs/get-started/test-drive).
+
+## Additional Resources
+
+- Change App Icon: [Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons)
+- Change Package Name: [Stack Overflow Guide](https://stackoverflow.com/questions/51534616/how-tochange-package-name-in-flutter)
+- Build & Release Android App: [Android Deployment Guide](https://flutter.dev/docs/deployment/android)
+- Build & Release iOS App: [iOS Deployment Guide](https://flutter.dev/docs/deployment/ios)
+
 
 ## Getting Started
 
